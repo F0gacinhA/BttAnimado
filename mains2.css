@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 16px;
+    border: 8px;
+    margin-inline: 8px;
+    
+}
+
+#magnifc{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(232, 162, 0, 0.917);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
